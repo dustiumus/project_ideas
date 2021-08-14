@@ -1,0 +1,47 @@
+
+
+                                         Project Ideas
+
+
+       First Idea:
+                     I want to make a site for leaving Game reviews of a variety of games. This site would allow you to
+       receive a brief description about a game, When the game was released and other info. You can create an account,
+       Save your personal reviews, remove reviews. Also would let you view others reviews, save their reviews to your
+       personal profile. This would solve the ever so overarching problem of Gamers soley get the information about
+       certain games and not getting reviews from people who actually play the game thoroughily enough to leave an
+       honest review and just getting "Dead Game" or the game is not good because it doesn't get good views on Twitch
+       and other platforms.
+
+       Second Idea:
+                    I want to build off my first project and create a Custom Trucks Gallery. In this Gallery, you would
+       create a personal profile, and start browsing the trucks! The user would be able to create totally new posts for
+       the gallery. Being able to post full detailed descriptions of your Truck and the Specifications or Flexes your
+       truck has, Post pictures and then post your truck amidst a bunch of other trucks. Being able to follow other
+       users and like their posts and leave comments on how gorgeous their trucks are.
+
+       Third Idea:
+                    I want to build a site that helps trucks drivers plan their Routes efficiently and safely. Too often
+       truck drivers are forced to keep terrible timelines and not given the correct time to plan their route to best
+       and safest route, just the shortest. I could solve this problem by building a site where a user can create a
+       profile, and scan a database to find the perfect route for their current job, next job, and also use previous
+       routes or parts of previous routes to better accomplish new jobs. The user can save route histories and their
+       favorite destinations. Along with the route it will save where fuel is, lodging and any other major needs of a
+       cross country road warrior.
+
+       Fourth Idea:
+                    One of my biggest problems as a gamer is losing track of my own personal library, I have over 300
+       games that I own on Xbox and just as many or more on my PC library. I have a huge library because I have learned
+       when to claim all the free games as well as hitting the sales. I want a site that will show me details of sales
+       coming up. Also the main feature of this website will be to create a personal database for each user where you
+       can store all of the games in your library with a short description of the game and what genre the game is. The
+       database will sort your library based on Genre not popularity or bias like the platforms like you to think rules
+       the game world. Along with the info about the game you can mark the Game as Played/Not Played so you can keep
+       track of those games you have played and those you haven't had a chance to get to yet. This way you can slowly or
+       quickly manage your personal library and remember which games you haven't touched yet and get them ready to play!
+
+       Fifth Idea:
+                    My last idea for a project would be to build a site that allows you to search, save and find all the
+       data that could possibly be found for your favorite College football team or teams. This site would allow to
+       create a profile, and save your fav teams stats to a profile and keep track of them as the season goes on. Stats
+       update weekly so will your data from the database. You can compare just about any stats with any of your friends
+       and flex your team on them.
